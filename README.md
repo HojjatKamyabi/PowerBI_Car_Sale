@@ -1,2 +1,1 @@
-# PowerBI_Car_Sale
-Car Sales data dashboard in Power BI
+![alt text](https://github.com/HojjatKamyabi/Excel_Dashboard/blob/main/dashboard.png?raw=true)
