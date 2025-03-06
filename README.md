@@ -11,21 +11,21 @@ The dashboard allows users to filter data by <strong>brand, fuel type, and year<
 
 <h2>Key Features</h2>
 
-<h3>✅ KPIs Overview</h3>
+<h3>KPIs Overview</h3>
 <ul>
   <li><strong>Total Average Price:</strong> Displays the average price of all cars in the dataset.</li>
   <li><strong>Total Sales Number:</strong> Shows the total number of cars sold.</li>
   <li><strong>Most Popular Car:</strong> Identifies the car model with the highest number of sales.</li>
 </ul>
 
-<h3>✅ Interactive Filters</h3>
+<h3>Interactive Filters</h3>
 <ul>
   <li><strong>Brand Selector:</strong> Allows users to filter sales by a specific car brand.</li>
   <li><strong>Fuel Type Filter:</strong> Segments the data based on fuel type (Gasoline, Diesel, Electric/Gasoline).</li>
   <li><strong>Year Range Slider:</strong> Enables users to analyze sales data within a specific year range.</li>
 </ul>
 
-<h3>✅ Data Visualizations</h3>
+<h3>Data Visualizations</h3>
 <ul>
   <li><strong>Top 10 Models - Average Year:</strong> Line chart showing the average manufacturing year of the top 10 car models.</li>
   <li><strong>Top 10 Models - Average Mileage:</strong> Line chart analyzing the average mileage of the top 10 car models.</li>
