@@ -1,6 +1,6 @@
 ![alt text](https://github.com/HojjatKamyabi/PowerBI_Car_Sale/blob/main/dashboard.png?raw=true)
 
-<h1>🚗 Car Sales Dashboard - Power BI</h1>
+<h1> Car Sales Dashboard - Power BI</h1>
 
 <h2>Overview</h2>
 <p>
